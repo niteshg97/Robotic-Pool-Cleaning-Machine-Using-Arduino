@@ -3,7 +3,6 @@
 ![IoT](https://img.shields.io/badge/IoT-MQTT-orange)
 
 ---
-
 ## 📌 Overview
 **Agribot** is an autonomous, multi-functional agricultural robot developed to **automate essential farming tasks** such as:
 - **Soil moisture sensing**
@@ -56,12 +55,3 @@ flowchart LR
     D --> F[Raspberry Pi]
     F --> G[MQTT Broker]
     G --> H[Cloud Dashboard / Local UI]
-## 🏗 Proposed Architecture
-
-The Agribot system architecture integrates **sensing**, **actuation**, and **IoT communication** for automated farming operations.
-
-<p align="center">
-  <img src="images/proposed_architecture.png" alt="Proposed Architecture of Agribot" width="80%">
-</p>
-<img width="356" height="312" alt="COMPONENTS-OF-THE-AGRICULTURAL-ROBOT" src="https://github.com/user-attachments/assets/a647d272-c4f8-4c6f-a4b9-4f98c3c4f032" />
-
