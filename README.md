@@ -1,3 +1,4 @@
+<img width="356" height="312" alt="COMPONENTS-OF-THE-AGRICULTURAL-ROBOT" src="https://github.com/user-attachments/assets/6aecd877-5c9c-4c72-ace9-86d8f522f2cb" />
 # 🤖 Agribot — Autonomous Agriculture Automation Robot
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
