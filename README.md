@@ -1,6 +1,3 @@
-<img width="356" height="312" alt="COMPONENTS-OF-THE-AGRICULTURAL-ROBOT" src="https://github.com/user-attachments/assets/6aecd877-5c9c-4c72-ace9-86d8f522f2cb" />
-# 🤖 Agribot — Autonomous Agriculture Automation Robot
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Arduino%20%7C%20Raspberry%20Pi-green)
 ![IoT](https://img.shields.io/badge/IoT-MQTT-orange)
@@ -59,4 +56,12 @@ flowchart LR
     D --> F[Raspberry Pi]
     F --> G[MQTT Broker]
     G --> H[Cloud Dashboard / Local UI]
+## 🏗 Proposed Architecture
+
+The Agribot system architecture integrates **sensing**, **actuation**, and **IoT communication** for automated farming operations.
+
+<p align="center">
+  <img src="images/proposed_architecture.png" alt="Proposed Architecture of Agribot" width="80%">
+</p>
+<img width="356" height="312" alt="COMPONENTS-OF-THE-AGRICULTURAL-ROBOT" src="https://github.com/user-attachments/assets/a647d272-c4f8-4c6f-a4b9-4f98c3c4f032" />
 
