@@ -46,12 +46,22 @@ This system is designed to assist farmers in **precision agriculture** by automa
 
 ---
 
-## 📊 System Workflow
-```mermaid
-flowchart LR
-    A[Soil Moisture Sensor] --> D[Arduino]
-    B[Humidity Sensor] --> D
-    D --> E[Motor & Seed Mechanism Control]
-    D --> F[Raspberry Pi]
-    F --> G[MQTT Broker]
-    G --> H[Cloud Dashboard / Local UI]
+
+## 📸 Project Presentation
+The **Agribot** was showcased at the **NIT Patna Tech Fest**, where it demonstrated its capabilities in **soil moisture sensing, seed dispensing, humidity monitoring**, and **MQTT-based IoT data logging**.  
+Our live demonstration highlighted how **autonomous agricultural robotics** can improve efficiency and precision in farming operations.
+
+<p align="center">
+  <img src="images/project_presentation.jpg" alt="Presenting Agribot at NIT Patna Tech Fest" width="80%">
+</p>
+<img width="553" height="517" alt="Screenshot 2025-08-08 at 7 36 46 PM" src="https://github.com/user-attachments/assets/2fb50efb-06b8-4511-b7fe-dc26e7508e48" />
+
+
+## 🏆 Certificate of Achievement
+Our team was honored with the **2nd Prize** in the **AgriTech Innovation category** at the **NIT Patna Tech Fest**.  
+This award recognized **Agribot’s innovative approach** in integrating autonomous robotics with IoT-based data logging to address real-world agricultural challenges.
+
+
+<p align="center">
+  <img src="images/Certificate.jpg" alt="Presenting Agribot at NIT Patna Tech Fest" width="80%">
+<img width="550" height="500" alt="Screenshot 2025-08-08 at 7 36 46 PM" src="https://github.com/user-attachments/assets/ea5640ac-a0c7-47c3-9a74-00e09bd635ca" />
